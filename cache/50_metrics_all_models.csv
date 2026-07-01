@@ -1,0 +1,4 @@
+Modell,Notebook,MAE (€),RMSE (€),R²
+Modell I (Lineare Regression),NB10 – Annika,999.99,999.99,0.0
+Modell II (Random Forest),NB20/30 – Mareike,999.99,999.99,0.0
+Modell III (Gradient Boosting),NB40 – Jasmin,66.76,110.34,0.3962

@@ -1,28 +1,22 @@
 feature
+dist_km_madrid_centro
+dist_km_barcelona_centro
+dist_km_sevilla_centro
+dist_km_malaga_centro
+dist_km_palma_centro
+dist_km_valencia_centro
+dist_km_bilbao_centro
+dist_km_girona_centro
+dist_km_nearest_hotspot
+room_Entire_home_apt
+room_Hotel_room
+room_Private_room
+room_Shared_room
 minimum_nights
-min_nights_capped
+availability_365
 number_of_reviews
 reviews_per_month
 calculated_host_listings_count
-availability_365
 number_of_reviews_ltm
-dist_city_center
-dist_beach
-is_licensed
-host_is_pro
-review_activity_score
-latitude
-longitude
-room_type_Entire home/apt
-room_type_Hotel room
-room_type_Private room
-room_type_Shared room
-region_Barcelona
-region_Euskadi
-region_Girona
-region_Madrid
-region_Malaga
-region_Mallorca
-region_Menorca
-region_Sevilla
-region_Valencia
+occupancy_rate
+region_encoded

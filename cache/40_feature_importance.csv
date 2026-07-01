@@ -1,28 +1,22 @@
 feature,importance
-region_Mallorca,0.2704722718403734
-calculated_host_listings_count,0.2634229936105238
-availability_365,0.21647095313042108
-min_nights_capped,0.03657040669396072
-latitude,0.033684881253624364
-is_licensed,0.0322076165578199
-longitude,0.02419795941108331
-number_of_reviews,0.022520220243091808
-region_Menorca,0.019025028635990364
-minimum_nights,0.016361377286686404
-dist_beach,0.01130478897493335
-room_type_Entire home/apt,0.01126579651593422
-dist_city_center,0.010136364079915139
-number_of_reviews_ltm,0.009640171888716355
-review_activity_score,0.007658778676014279
-reviews_per_month,0.006266784881801623
-region_Madrid,0.004759165538971962
-host_is_pro,0.003335218079290447
-region_Barcelona,0.0006749650528063836
-room_type_Private room,2.2172571274797315e-05
-room_type_Hotel room,1.1713607447245363e-06
-region_Girona,9.137160216667386e-07
-region_Euskadi,0.0
-room_type_Shared room,0.0
-region_Malaga,0.0
-region_Sevilla,0.0
-region_Valencia,0.0
+dist_km_palma_centro,0.2999456134215745
+room_Entire_home_apt,0.1819604932881359
+minimum_nights,0.09720198054453012
+calculated_host_listings_count,0.06822212223557236
+reviews_per_month,0.04951348831309515
+dist_km_nearest_hotspot,0.04670996872685102
+dist_km_girona_centro,0.04116282478126973
+dist_km_madrid_centro,0.04073786347361248
+dist_km_barcelona_centro,0.03650252420449229
+dist_km_bilbao_centro,0.02882358017283569
+number_of_reviews,0.025022881676675934
+dist_km_sevilla_centro,0.024132339179816182
+dist_km_malaga_centro,0.021746326478607785
+number_of_reviews_ltm,0.012700961392691976
+dist_km_valencia_centro,0.008801827710758192
+occupancy_rate,0.007540018392583043
+availability_365,0.007462285360275401
+room_Shared_room,0.001805979919802262
+region_encoded,6.920726819917021e-06
+room_Private_room,0.0
+room_Hotel_room,0.0

@@ -1,2 +1,2 @@
 model,notebook,mae,rmse,r2,best_params
-DecisionTreeRegressor (optimiert),40,269.8078,1060.7643,0.5596,"{'max_depth': 12, 'max_features': None, 'min_samples_leaf': 10, 'min_samples_split': 20}"
+DecisionTreeRegressor (optimiert),40,56.6381,83.5769,0.3701,"{'max_depth': 12, 'max_features': None, 'min_samples_leaf': 20, 'min_samples_split': 50}"
